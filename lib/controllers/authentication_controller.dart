@@ -94,7 +94,7 @@ class AuthenticationController extends GetxController{
   // cultural values
   String nationality,
   String education,
-  String languageSpoken,    // 5
+  String languageSpoken,     // 5
   String religion,
   String ethnicity,
 
