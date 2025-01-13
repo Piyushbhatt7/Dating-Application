@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4220579121",
+    "project_id": "soulmingle-5d95a",
+    "storage_bucket": "soulmingle-5d95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4220579121:android:30a2204da95eec02c35410",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALE19FlqaxsRoOm7IZfdAPGSks5HEvW6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
